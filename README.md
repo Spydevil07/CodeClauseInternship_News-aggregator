@@ -12,6 +12,8 @@ Aim - Develop a web-based news aggregator.
 Description - Create an app that aggregates news articles from different sources. Include
 features like category-based news, article summaries, and external article links.
 
+Technologies Used - Frontend: HTML, CSS, JavaScript, React
+API: News API
 
 To run this project
 
