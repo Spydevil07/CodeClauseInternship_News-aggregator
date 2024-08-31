@@ -1,4 +1,12 @@
 # CodeClauseInternship_News-aggregator
+
+Project ID - #CC9909
+Project Title - News Aggregator
+Internship Domain - Web Development Intern
+Project Level - Intermediate Level
+Assigned By - CodeClause Internship
+Assigned To - Rahul Ramesh Khedekar
+
 To run this project
 
 ### `npm start`
