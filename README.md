@@ -7,6 +7,12 @@ Project Level - Intermediate Level
 Assigned By - CodeClause Internship
 Assigned To - Rahul Ramesh Khedekar
 
+Aim - Develop a web-based news aggregator.
+
+Description - Create an app that aggregates news articles from different sources. Include
+features like category-based news, article summaries, and external article links.
+
+
 To run this project
 
 ### `npm start`
